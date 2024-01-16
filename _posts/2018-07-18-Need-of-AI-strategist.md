@@ -11,7 +11,9 @@ In the latest CIO/IDG research that surveyed more than 200 IT executives of larg
 - **Increasing Complexity:** Organizations Invest in an Average of Seven Different ML Tools.  
   _Source: "Conquer the AI dilemma by unifying data science and engineering" by DataBricks_
 
-This, of course, is a very IT technology implementation-oriented point of view. The suggested solution is to create a unified analytics platform which fosters better collaboration between data scientists and engineering. But before rushing ahead and trying to implement a unified analytics platform consider the findings of the strategy consulting firm McKinsey & Co. in its article regarding “How advanced industrial companies should approach AI strategy”.
+This, of course, is a very IT technology implementation-oriented point of view. The suggested solution is to create a unified analytics platform which fosters better collaboration between data scientists and engineering. But before rushing ahead and trying to implement a unified analytics platform consider the findings of the strategy consulting firm McKinsey & Co. in its article regarding [“How advanced industrial companies should approach AI strategy”.](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-advanced-industrial-companies-should-approach-artificial-intelligence-strategy)
+
+![AI_strategist.jpeg](..%2Fstatic_images%2FAI_strategist.jpeg)
 
 A sobering insight is that only 11% of the top management considers AI technology as a top priority. In spite of overwhelming support from IT executives (per the CIO/IDG research), the rest of the executive team do not seem to be buying the AI story. The disconnect stems from the top management being unclear about the value AI brings to the table. In spite of their enthusiasm for AI implementation, the CIO/CTOs are unable to communicate the economic value add of AI transformation to the rest of the management team.
 
