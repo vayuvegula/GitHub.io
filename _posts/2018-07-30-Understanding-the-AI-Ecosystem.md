@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding the AI ecosystem"
-date: 2018-07-18
+date: 2018-07-30
 ---
 
 _A 4 layer framework approach is proposed to understand the various players and technologies contributing to the AI ecosystem.An in-depth exploration of each layer will follow in subsequent posts._

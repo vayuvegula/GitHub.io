@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A framework to using Porter’s forces, business model canvas and AI strategy"
-date: 2018-07-18
+date: 2018-07-27
 ---
 
 ***Overall company strategy and goals should inform AI strategic implementation***

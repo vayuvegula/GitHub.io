@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Need for an AI Strategist"
-date: 2018-07-18
+date: 2018-07-27
 ---
 
 In the latest CIO/IDG research that surveyed more than 200 IT executives of large companies, the majority of the companies agreed AI had massive potential to drive disruptive innovations across most enterprises. In fact, 90% of them are investing in AI. In reality, only a very few of them succeed. As per the report, the top reasons for failure are:
