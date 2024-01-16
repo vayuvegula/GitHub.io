@@ -10,7 +10,7 @@ The hardware layer of the AI ecosystem is a very competitive business with giant
 Hardware resources like the processors are required during 2 phases of the AI models. The first phase which is the most data and resource intensive is called the training phase. The second phase which is substantially less resource intensive is called the inference. AI smart applications use the inference models.
 
 ![hard_layer_ecosystem_1.jpg](/assets/img/hard_layer_ecosystem_1.jpg)
-        _Mapping of processors based on design and usage_
+_Mapping of processors based on design and usage_
 
 The speed of the processors can vary depending upon whether they are generic or have been created specifically for a deep learning model.
 
